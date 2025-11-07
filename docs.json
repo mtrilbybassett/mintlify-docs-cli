@@ -15,14 +15,7 @@
           "icon": "play",
           "expanded": false,
           "pages": [
-            "quickstart",
-            {
-              "group": "Editing",
-              "icon": "pencil",
-              "pages": [
-                "docs-ref-conceptual/latest/how-to.md"
-              ]
-            }
+            "quickstart"
           ]
         },
         {
@@ -45,13 +38,6 @@
           "expanded": false,
           "pages": [
             "quickstart",
-            {
-              "group": "Editing",
-              "icon": "pencil",
-              "pages": [
-                "docs-ref-conceptual/lts/how-to.md"
-              ]
-            }
           ]
         },
         {
