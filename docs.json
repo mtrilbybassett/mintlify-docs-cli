@@ -20,8 +20,7 @@
                 "group": "Editing",
                 "icon": "pencil",
                 "pages": [
-                  "installation",
-                  "editor"
+                  "docs-ref-conceptual/latest/how-to.md"
                 ]
               }
             ]
@@ -50,8 +49,7 @@
                 "group": "Editing",
                 "icon": "pencil",
                 "pages": [
-                  "installation",
-                  "editor"
+                  "docs-ref-conceptual/lts/how-to.md"
                 ]
               }
             ]
@@ -68,5 +66,4 @@
         ]
       }
       }
-  // The rest of your configuration
 }
