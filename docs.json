@@ -16,7 +16,7 @@
           "group": "Conceptual",
           "icon": "play",
           "expanded": false,
-          "pages": ["docs-ref-conceptual/latest/how-to.md"]
+          "pages": ["docs-ref-conceptual/latest/how-to"]
         },
         {
           "group": "Reference",
@@ -36,7 +36,7 @@
           "group": "Conceptual",
           "icon": "play",
           "expanded": false,
-          "pages": ["docs-ref-conceptual/lts/how-to.md"]
+          "pages": ["docs-ref-conceptual/lts/how-to"]
         },
         {
           "group": "Reference",
