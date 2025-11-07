@@ -1,69 +1,69 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mintlify Test",
-  "colors": {
-    "primary": "#ff0000"
-  },
-  "navigation": {
-    "versions": [
-      {
-        "version": "Latest",
-        "groups": [
-          {
-            "group": "Conceptual",
-            "icon": "play",
-            "expanded": false,
-            "pages": [
-              "quickstart",
-              {
-                "group": "Editing",
-                "icon": "pencil",
-                "pages": [
-                  "docs-ref-conceptual/latest/how-to.md"
-                ]
-              }
-            ]
-          },
-          {
-            "group": "Reference",
-            "icon": "notebook-text",
-            "expanded": false,
-            "pages": [
-              "writing-content/page",
-              "writing-content/text"
-            ]
-          }
-        ]
-      },
-      {
-        "version": "LTS",
-        "groups": [
-          {
-            "group": "Conceptual",
-            "icon": "play",
-            "expanded": false,
-            "pages": [
-              "quickstart",
-              {
-                "group": "Editing",
-                "icon": "pencil",
-                "pages": [
-                  "docs-ref-conceptual/lts/how-to.md"
-                ]
-              }
-            ]
-          },
-          {
-            "group": "Reference",
-            "icon": "notebook-text",
-            "expanded": false,
-            "pages": [
-              "writing-content/page",
-              "writing-content/text"
-            ]
-          }
-        ]
-      }
-      }
+"$schema": "https://mintlify.com/docs.json",
+"theme": "mint",
+"name": "Mintlify Test",
+"colors": {
+  "primary": "#ff0000"
+},
+"navigation": {
+  "versions": [
+    {
+      "version": "Latest",
+      "groups": [
+        {
+          "group": "Conceptual",
+          "icon": "play",
+          "expanded": false,
+          "pages": [
+            "quickstart",
+            {
+              "group": "Editing",
+              "icon": "pencil",
+              "pages": [
+                "docs-ref-conceptual/latest/how-to.md"
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Reference",
+          "icon": "notebook-text",
+          "expanded": false,
+          "pages": [
+            "writing-content/page",
+            "writing-content/text"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "LTS",
+      "groups": [
+        {
+          "group": "Conceptual",
+          "icon": "play",
+          "expanded": false,
+          "pages": [
+            "quickstart",
+            {
+              "group": "Editing",
+              "icon": "pencil",
+              "pages": [
+                "docs-ref-conceptual/lts/how-to.md"
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Reference",
+          "icon": "notebook-text",
+          "expanded": false,
+          "pages": [
+            "writing-content/page",
+            "writing-content/text"
+          ]
+        }
+      ]
+    }
+  }
 }
