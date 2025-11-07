@@ -50,5 +50,12 @@
       ]
     }
   ]
+  },
+  "errors": {
+  "404": {
+    "redirect": false,
+    "title": "I can't be found",
+    "description": "What ever **happened** to this _page_?"
   }
+}
 }
