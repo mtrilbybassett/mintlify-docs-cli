@@ -15,7 +15,7 @@
           "icon": "play",
           "expanded": false,
           "pages": [
-            "quickstart"
+            "docs-ref-conceptual/latest/how-to.md"
           ]
         },
         {
@@ -37,7 +37,7 @@
           "icon": "play",
           "expanded": false,
           "pages": [
-            "quickstart",
+            "docs-ref-conceptual/lts/how-to.md",
           ]
         },
         {
