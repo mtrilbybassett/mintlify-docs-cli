@@ -1,0 +1,41 @@
+uid: cmd_1
+name: command 1
+importantNote: >-
+  > [!NOTE]
+
+  > This command group has commands that are new. [Learn more](https://google.com) about new commands.
+summary: |-
+  Does command 1 actions.
+status: GA
+sourceType: Core
+directCommands:
+- uid: cmd_1_sub_1
+  name: command 1 sub 1
+  summary: |-
+    Does command 1 sub 1 actions. 
+  status: GA
+  sourceType: Core
+  editLink: https://github.com/
+  syntax: >-
+    command 1 sub 1 [--ids]
+  examples:
+  - summary: |-
+      Does command 1 sub 1 actions for example. 
+    syntax: command 1 sub 1 -ids MyIDs
+  optionalParameters:
+  - name: --ids
+    summary: |-
+      One or more resource IDs (space-delimited). It should be a complete resource ID containing all information of 'Resource Id' arguments. You should provide either --ids or other 'Resource Id' arguments.
+    groupName: Resource Id Arguments
+  globalParameters:
+  - name: --debug
+    defaultValue: "False"
+    summary: |-
+      Increase logging verbosity to show all debug logs.
+  - name: --help -h
+    summary: |-
+      Show this help message and exit.
+  - name: --verbose
+    defaultValue: "False"
+    summary: |-
+      Increase logging verbosity. Use --debug for full debug logs.
