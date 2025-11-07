@@ -6,7 +6,67 @@
     "primary": "#ff0000"
   },
   "navigation": {
-    // Your navigation structure
-  }
+    "versions": [
+      {
+        "version": "Latest",
+        "groups": [
+          {
+            "group": "Conceptual",
+            "icon": "play",
+            "expanded": false,
+            "pages": [
+              "quickstart",
+              {
+                "group": "Editing",
+                "icon": "pencil",
+                "pages": [
+                  "installation",
+                  "editor"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Reference",
+            "icon": "notebook-text",
+            "expanded": false,
+            "pages": [
+              "writing-content/page",
+              "writing-content/text"
+            ]
+          }
+        ]
+      },
+      {
+        "version": "LTS",
+        "groups": [
+          {
+            "group": "Conceptual",
+            "icon": "play",
+            "expanded": false,
+            "pages": [
+              "quickstart",
+              {
+                "group": "Editing",
+                "icon": "pencil",
+                "pages": [
+                  "installation",
+                  "editor"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Reference",
+            "icon": "notebook-text",
+            "expanded": false,
+            "pages": [
+              "writing-content/page",
+              "writing-content/text"
+            ]
+          }
+        ]
+      }
+      }
   // The rest of your configuration
 }
